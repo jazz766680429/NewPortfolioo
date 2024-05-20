@@ -12,7 +12,7 @@ function AboutCard() {
             from <span className="purple"> Pune, India.</span>
             <br />
             
-            Currently working as Data Analyst Intern at ITech Provision
+            Currently working as Data Analyst Intern at VMukti Solutions, Ahmedabad
             <br />
             I have completed Btech in Computer Science.
             
